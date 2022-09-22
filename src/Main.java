@@ -33,7 +33,7 @@ public class Main {
         System.out.println(car2.size);
 
 
-        System.out.println("\n----- 메서드 사용하기 -----\n");
+
 
 
 

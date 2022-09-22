@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class method02 {
+public class Method02 {
 
     private static Scanner scanner = new Scanner(System.in);
 
