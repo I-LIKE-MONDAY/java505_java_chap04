@@ -1,3 +1,5 @@
+package exercise;
+
 public class Exercise03 {
     public static void main(String[] args) {
 //        3-1. 10개의 문자를 가지는 배열 c를 생성하는 코드를 한 줄로 쓰라.
